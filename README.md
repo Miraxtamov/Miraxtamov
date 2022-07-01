@@ -18,4 +18,4 @@
 [![](https://visitcount.itsvg.in/api?id=Miraxtamov&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 📊 Wakatime Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Miraxtamov&theme=react)](https://github.com/Miraxtamov/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Miraxtamov&theme=react)](https://github.com/Miraxtamov)
