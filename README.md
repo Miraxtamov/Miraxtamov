@@ -14,8 +14,8 @@
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Miraxtamov) [![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://t.me/Miraxtamov) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/javohirmiraxtamov) 
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-[![](https://visitcount.itsvg.in/api?id=Miraxtamov&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://github.com/Miraxtamov)
+[![](https://visitcount.itsvg.in/api?id=Miraxtamov&icon=0&color=1)](https://github.com/Miraxtamov)
 
 ## 📊 Wakatime Stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Miraxtamov&theme=react)](https://github.com/Miraxtamov)
