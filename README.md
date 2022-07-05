@@ -19,4 +19,4 @@
 
 ## 📊 Wakatime Stats
 [![wakatime](https://wakatime.com/badge/user/1f6d74cf-fc90-41af-b03b-487415997b63.svg)](https://github.com/Miraxtamov) <br /> <br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Miraxtamov&theme=react)](https://github.com/Miraxtamov)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Miraxtamov&theme=react&hide_border=true)](https://github.com/Miraxtamov)
